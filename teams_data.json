@@ -1,9 +1,4 @@
 [
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/10.png",
         "stars": [
@@ -39,7 +34,7 @@
             "DEF": "83",
             "OVR": "85"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -51,7 +46,7 @@
             10,
             10
         ],
-        "Name": "Bayern M\u00fcnchen",
+        "Name": "Bayern M\u00fanchen",
         "team_Ratings": {
             "ATT": "90",
             "MID": "84",
@@ -77,7 +72,7 @@
             "DEF": "83",
             "OVR": "84"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -100,10 +95,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/240.png",
         "stars": [
             10,
@@ -112,14 +103,14 @@
             10,
             10
         ],
-        "Name": "Atl\u00e9tico de Madrid",
+        "Name": "Atl\u0117tico de Madrid",
         "team_Ratings": {
             "ATT": "85",
             "MID": "82",
             "DEF": "81",
             "OVR": "83"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -198,10 +189,6 @@
         "League": "Italy Serie A (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/116365.png",
         "stars": [
@@ -298,10 +285,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA20/images/crest/5/light/52.png",
         "stars": [
             10,
@@ -397,10 +380,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112172.png",
         "stars": [
             10,
@@ -435,7 +414,7 @@
             "DEF": "82",
             "OVR": "80"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -466,14 +445,14 @@
             10,
             5
         ],
-        "Name": "Real Betis Balompi\u00e9",
+        "Name": "Real Betis Balompi\u0117",
         "team_Ratings": {
             "ATT": "83",
             "MID": "79",
             "DEF": "77",
             "OVR": "79"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -496,10 +475,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/457.png",
         "stars": [
             10,
@@ -515,7 +490,7 @@
             "DEF": "79",
             "OVR": "79"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -534,7 +509,7 @@
             "DEF": "77",
             "OVR": "79"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -553,7 +528,7 @@
             "DEF": "77",
             "OVR": "79"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -572,7 +547,7 @@
             "DEF": "77",
             "OVR": "78"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -594,11 +569,6 @@
         "League": "Italy Serie A (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/19.png",
         "stars": [
@@ -695,10 +665,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/605.png",
         "stars": [
             10,
@@ -771,7 +737,7 @@
             "DEF": "74",
             "OVR": "77"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -794,10 +760,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/479.png",
         "stars": [
             10,
@@ -813,7 +775,7 @@
             "DEF": "77",
             "OVR": "77"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -893,10 +855,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1831.png",
         "stars": [
             10,
@@ -969,7 +927,7 @@
             "DEF": "75",
             "OVR": "76"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -988,13 +946,9 @@
             "DEF": "75",
             "OVR": "76"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/383.png",
         "stars": [
@@ -1087,13 +1041,9 @@
             "DEF": "74",
             "OVR": "76"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110062.png",
         "stars": [
@@ -1110,7 +1060,7 @@
             "DEF": "76",
             "OVR": "76"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1189,11 +1139,6 @@
         "League": "France Ligue 1 (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/65.png",
         "stars": [
@@ -1229,7 +1174,7 @@
             "DEF": "77",
             "OVR": "76"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1290,10 +1235,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110.png",
         "stars": [
             10,
@@ -1328,7 +1269,7 @@
             "DEF": "75",
             "OVR": "76"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1389,10 +1330,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111974.png",
         "stars": [
             10,
@@ -1427,7 +1364,7 @@
             "DEF": "75",
             "OVR": "75"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -1439,7 +1376,7 @@
             10,
             0
         ],
-        "Name": "Atl\u00e9tico Mineiro",
+        "Name": "Atl\u0117tico Mineiro",
         "team_Ratings": {
             "ATT": "77",
             "MID": "75",
@@ -1488,10 +1425,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/54.png",
         "stars": [
             10,
@@ -1526,7 +1459,7 @@
             "DEF": "75",
             "OVR": "75"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1587,10 +1520,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1861.png",
         "stars": [
             10,
@@ -1606,7 +1535,7 @@
             "DEF": "74",
             "OVR": "75"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1625,7 +1554,7 @@
             "DEF": "73",
             "OVR": "75"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1644,7 +1573,7 @@
             "DEF": "76",
             "OVR": "75"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1682,13 +1611,9 @@
             "DEF": "73",
             "OVR": "74"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/472.png",
         "stars": [
@@ -1705,7 +1630,7 @@
             "DEF": "72",
             "OVR": "74"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -1762,7 +1687,7 @@
             "DEF": "71",
             "OVR": "74"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -1784,11 +1709,6 @@
         "League": "Scotland Premiership (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112472.png",
         "stars": [
@@ -1885,10 +1805,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/229.png",
         "stars": [
             10,
@@ -1983,10 +1899,6 @@
         "League": "Italy Serie A (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1796.png",
         "stars": [
@@ -2083,10 +1995,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/230.png",
         "stars": [
             10,
@@ -2121,7 +2029,7 @@
             "DEF": "72",
             "OVR": "73"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -2178,13 +2086,9 @@
             "DEF": "73",
             "OVR": "73"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/160.png",
         "stars": [
@@ -2281,10 +2185,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/71.png",
         "stars": [
             10,
@@ -2379,11 +2279,6 @@
         "League": "Rest of World",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/8.png",
         "stars": [
@@ -2457,7 +2352,7 @@
             "DEF": "73",
             "OVR": "73"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -2479,10 +2374,6 @@
         "League": "Belgium Pro League (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/17.png",
         "stars": [
@@ -2579,10 +2470,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112996.png",
         "stars": [
             10,
@@ -2636,7 +2523,7 @@
             "DEF": "72",
             "OVR": "72"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -2667,20 +2554,16 @@
             5,
             0
         ],
-        "Name": "Deportivo Alav\u00e9s",
+        "Name": "Deportivo Alav\u0117s",
         "team_Ratings": {
             "ATT": "73",
             "MID": "73",
             "DEF": "73",
             "OVR": "72"
         },
-        "League": "Spain Primera Divisi\ucc98n (1)",
+        "League": "Spain Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101083.png",
         "stars": [
@@ -2697,7 +2580,7 @@
             "DEF": "72",
             "OVR": "72"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -2735,7 +2618,7 @@
             "DEF": "71",
             "OVR": "72"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -2776,10 +2659,6 @@
         "League": "Rest of World",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1923.png",
         "stars": [
@@ -2853,7 +2732,7 @@
             "DEF": "73",
             "OVR": "72"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -2872,13 +2751,9 @@
             "DEF": "72",
             "OVR": "72"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112670.png",
         "stars": [
@@ -2895,7 +2770,7 @@
             "DEF": "71",
             "OVR": "72"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -2974,11 +2849,6 @@
         "League": "Rest of World",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111674.png",
         "stars": [
@@ -3075,10 +2945,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111019.png",
         "stars": [
             10,
@@ -3094,7 +2960,7 @@
             "DEF": "71",
             "OVR": "71"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -3113,7 +2979,7 @@
             "DEF": "70",
             "OVR": "71"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -3174,10 +3040,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112908.png",
         "stars": [
             10,
@@ -3212,7 +3074,7 @@
             "DEF": "71",
             "OVR": "71"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -3231,7 +3093,7 @@
             "DEF": "71",
             "OVR": "71"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -3273,10 +3135,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112134.png",
         "stars": [
             10,
@@ -3311,7 +3169,7 @@
             "DEF": "71",
             "OVR": "71"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -3371,10 +3229,6 @@
         "League": "Germany 2. Bundesliga (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111008.png",
         "stars": [
@@ -3471,10 +3325,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110502.png",
         "stars": [
             10,
@@ -3547,7 +3397,7 @@
             "DEF": "71",
             "OVR": "71"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -3566,14 +3416,9 @@
             "DEF": "71",
             "OVR": "71"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101047.png",
         "stars": [
@@ -3670,10 +3515,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101088.png",
         "stars": [
             10,
@@ -3682,14 +3523,14 @@
             0,
             0
         ],
-        "Name": "V\u00e9lez Sarsfield",
+        "Name": "V\u0117lez Sarsfield",
         "team_Ratings": {
             "ATT": "73",
             "MID": "70",
             "DEF": "71",
             "OVR": "70"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -3769,10 +3610,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/260.png",
         "stars": [
             10,
@@ -3788,7 +3625,7 @@
             "DEF": "70",
             "OVR": "70"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -3819,14 +3656,14 @@
             0,
             0
         ],
-        "Name": "Fatih Karag\u00fcmr\u00fck S.K.",
+        "Name": "Fatih Karag\u00famr\u00fak S.K.",
         "team_Ratings": {
             "ATT": "72",
             "MID": "69",
             "DEF": "69",
             "OVR": "70"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -3867,10 +3704,6 @@
         "League": "England Championship (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110986.png",
         "stars": [
@@ -3967,10 +3800,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/741.png",
         "stars": [
             10,
@@ -3986,7 +3815,7 @@
             "DEF": "69",
             "OVR": "70"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -4066,10 +3895,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111715.png",
         "stars": [
             10,
@@ -4085,7 +3910,7 @@
             "DEF": "70",
             "OVR": "70"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -4142,7 +3967,7 @@
             "DEF": "67",
             "OVR": "70"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -4164,11 +3989,6 @@
         "League": "France Ligue 1 (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/244.png",
         "stars": [
@@ -4185,7 +4005,7 @@
             "DEF": "70",
             "OVR": "70"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -4204,7 +4024,7 @@
             "DEF": "69",
             "OVR": "70"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -4265,10 +4085,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1745.png",
         "stars": [
             10,
@@ -4315,14 +4131,14 @@
             0,
             0
         ],
-        "Name": "MKE Ankarag\u00fcc\u00fc",
+        "Name": "MKE Ankarag\u00fac\u00fa",
         "team_Ratings": {
             "ATT": "70",
             "MID": "69",
             "DEF": "68",
             "OVR": "70"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -4364,10 +4180,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110827.png",
         "stars": [
             10,
@@ -4383,7 +4195,7 @@
             "DEF": "71",
             "OVR": "70"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -4452,20 +4264,16 @@
             0,
             0
         ],
-        "Name": "Atl\u00e9tico Tucum\u00e1n",
+        "Name": "Atl\u0117tico Tucum\u00e1n",
         "team_Ratings": {
             "ATT": "69",
             "MID": "71",
             "DEF": "69",
             "OVR": "70"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101108.png",
         "stars": [
@@ -4551,7 +4359,7 @@
             0,
             0
         ],
-        "Name": "Fortuna D\u00fcsseldorf",
+        "Name": "Fortuna D\u00fasseldorf",
         "team_Ratings": {
             "ATT": "69",
             "MID": "70",
@@ -4562,10 +4370,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101100.png",
         "stars": [
             10,
@@ -4574,7 +4378,7 @@
             0,
             0
         ],
-        "Name": "Atl\u00e9tico Nacional",
+        "Name": "Atl\u0117tico Nacional",
         "team_Ratings": {
             "ATT": "69",
             "MID": "70",
@@ -4600,7 +4404,7 @@
             "DEF": "72",
             "OVR": "70"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -4661,10 +4465,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA17/images/crest/5/light/110980.png",
         "stars": [
             10,
@@ -4718,7 +4518,7 @@
             "DEF": "70",
             "OVR": "70"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -4737,7 +4537,7 @@
             "DEF": "70",
             "OVR": "70"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -4759,11 +4559,6 @@
         "League": "Germany 2. Bundesliga (2)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/50.png",
         "stars": [
@@ -4811,7 +4606,7 @@
             0,
             0
         ],
-        "Name": "Am\u00e9rica Mineiro",
+        "Name": "Am\u0117rica Mineiro",
         "team_Ratings": {
             "ATT": "67",
             "MID": "69",
@@ -4856,13 +4651,9 @@
             "DEF": "70",
             "OVR": "70"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111701.png",
         "stars": [
@@ -4959,10 +4750,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/873.png",
         "stars": [
             10,
@@ -5058,10 +4845,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/114162.png",
         "stars": [
             10,
@@ -5096,7 +4879,7 @@
             "DEF": "69",
             "OVR": "69"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -5115,7 +4898,7 @@
             "DEF": "67",
             "OVR": "69"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -5153,13 +4936,9 @@
             "DEF": "68",
             "OVR": "69"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1530.png",
         "stars": [
@@ -5256,10 +5035,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1854.png",
         "stars": [
             10,
@@ -5268,14 +5043,14 @@
             0,
             0
         ],
-        "Name": "Albacete Balompi\u00e9",
+        "Name": "Albacete Balompi\u0117",
         "team_Ratings": {
             "ATT": "70",
             "MID": "69",
             "DEF": "69",
             "OVR": "69"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -5354,11 +5129,6 @@
         "League": "France Ligue 2 (2)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111042.png",
         "stars": [
@@ -5451,13 +5221,9 @@
             "DEF": "66",
             "OVR": "69"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/10020.png",
         "stars": [
@@ -5512,7 +5278,7 @@
             "DEF": "68",
             "OVR": "69"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -5554,10 +5320,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110329.png",
         "stars": [
             10,
@@ -5592,7 +5354,7 @@
             "DEF": "69",
             "OVR": "69"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -5611,7 +5373,7 @@
             "DEF": "70",
             "OVR": "69"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -5653,10 +5415,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111022.png",
         "stars": [
             10,
@@ -5672,7 +5430,7 @@
             "DEF": "68",
             "OVR": "69"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -5748,13 +5506,9 @@
             "DEF": "70",
             "OVR": "69"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112689.png",
         "stars": [
@@ -5771,7 +5525,7 @@
             "DEF": "69",
             "OVR": "69"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -5851,10 +5605,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/896.png",
         "stars": [
             10,
@@ -5908,7 +5658,7 @@
             "DEF": "69",
             "OVR": "69"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -5949,11 +5699,6 @@
         "League": "France Ligue 2 (2)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112828.png",
         "stars": [
@@ -6008,7 +5753,7 @@
             "DEF": "68",
             "OVR": "69"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -6049,10 +5794,6 @@
         "League": "England Championship (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/711.png",
         "stars": [
@@ -6100,7 +5841,7 @@
             0,
             0
         ],
-        "Name": "1. FC N\u00fcrnberg",
+        "Name": "1. FC N\u00farnberg",
         "team_Ratings": {
             "ATT": "65",
             "MID": "67",
@@ -6148,10 +5889,6 @@
         "League": "England Championship (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/116361.png",
         "stars": [
@@ -6248,10 +5985,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/254.png",
         "stars": [
             10,
@@ -6347,10 +6080,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/687.png",
         "stars": [
             10,
@@ -6385,7 +6114,7 @@
             "DEF": "68",
             "OVR": "68"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -6423,7 +6152,7 @@
             "DEF": "65",
             "OVR": "68"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -6445,10 +6174,6 @@
         "League": "USA Major League Soccer (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/324.png",
         "stars": [
@@ -6484,7 +6209,7 @@
             "DEF": "68",
             "OVR": "68"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -6522,7 +6247,7 @@
             "DEF": "65",
             "OVR": "68"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -6544,11 +6269,6 @@
         "League": "CONMEBOL Libertadores",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101084.png",
         "stars": [
@@ -6565,7 +6285,7 @@
             "DEF": "68",
             "OVR": "68"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -6645,10 +6365,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/8001.png",
         "stars": [
             10,
@@ -6683,7 +6399,7 @@
             "DEF": "69",
             "OVR": "68"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -6743,10 +6459,6 @@
         "League": "USA Major League Soccer (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1871.png",
         "stars": [
@@ -6843,10 +6555,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/576.png",
         "stars": [
             10,
@@ -6919,7 +6627,7 @@
             "DEF": "68",
             "OVR": "68"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -6941,10 +6649,6 @@
         "League": "England Championship (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113217.png",
         "stars": [
@@ -6980,7 +6684,7 @@
             "DEF": "66",
             "OVR": "68"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -7041,10 +6745,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/614.png",
         "stars": [
             10,
@@ -7072,14 +6772,14 @@
             0,
             0
         ],
-        "Name": "CD Legan\u00e9s",
+        "Name": "CD Legan\u0117s",
         "team_Ratings": {
             "ATT": "67",
             "MID": "68",
             "DEF": "69",
             "OVR": "68"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -7098,7 +6798,7 @@
             "DEF": "68",
             "OVR": "68"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -7129,7 +6829,7 @@
             0,
             0
         ],
-        "Name": "SpVgg Greuther F\u00fcrth",
+        "Name": "SpVgg Greuther F\u00farth",
         "team_Ratings": {
             "ATT": "67",
             "MID": "68",
@@ -7139,11 +6839,6 @@
         "League": "Germany 2. Bundesliga (2)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1816.png",
         "stars": [
@@ -7240,10 +6935,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1888.png",
         "stars": [
             10,
@@ -7278,7 +6969,7 @@
             "DEF": "67",
             "OVR": "68"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -7339,10 +7030,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/101104.png",
         "stars": [
             10,
@@ -7377,7 +7064,7 @@
             "DEF": "68",
             "OVR": "67"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -7437,10 +7124,6 @@
         "League": "CONMEBOL Sudamericana",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111328.png",
         "stars": [
@@ -7537,10 +7220,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/10032.png",
         "stars": [
             10,
@@ -7632,13 +7311,9 @@
             "DEF": "66",
             "OVR": "67"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112168.png",
         "stars": [
@@ -7674,7 +7349,7 @@
             "DEF": "67",
             "OVR": "67"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -7734,11 +7409,6 @@
         "League": "France Ligue 2 (2)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110242.png",
         "stars": [
@@ -7755,7 +7425,7 @@
             "DEF": "65",
             "OVR": "67"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -7834,10 +7504,6 @@
         "League": "CONMEBOL Sudamericana",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110968.png",
         "stars": [
@@ -7934,10 +7600,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1797.png",
         "stars": [
             10,
@@ -8003,7 +7665,7 @@
             0,
             0
         ],
-        "Name": "CF Montr\u00e9al",
+        "Name": "CF Montr\u0117al",
         "team_Ratings": {
             "ATT": "67",
             "MID": "67",
@@ -8032,10 +7694,6 @@
         "League": "CONMEBOL Sudamericana",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1814.png",
         "stars": [
@@ -8132,10 +7790,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/694.png",
         "stars": [
             10,
@@ -8182,7 +7836,7 @@
             0,
             0
         ],
-        "Name": "FC Z\u00fcrich",
+        "Name": "FC Z\u00farich",
         "team_Ratings": {
             "ATT": "66",
             "MID": "69",
@@ -8201,7 +7855,7 @@
             0,
             0
         ],
-        "Name": "VfL Osnabr\u00fcck",
+        "Name": "VfL Osnabr\u00fack",
         "team_Ratings": {
             "ATT": "66",
             "MID": "68",
@@ -8230,10 +7884,6 @@
         "League": "Scotland Premiership (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112184.png",
         "stars": [
@@ -8329,11 +7979,6 @@
         "League": "Romania Liga I (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1805.png",
         "stars": [
@@ -8430,10 +8075,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113060.png",
         "stars": [
             10,
@@ -8529,10 +8170,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/2056.png",
         "stars": [
             10,
@@ -8598,7 +8235,7 @@
             0,
             0
         ],
-        "Name": "Universidad C\u00e9sar Vallejo",
+        "Name": "Universidad C\u0117sar Vallejo",
         "team_Ratings": {
             "ATT": "68",
             "MID": "66",
@@ -8627,10 +8264,6 @@
         "League": "Italy Serie B (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1914.png",
         "stars": [
@@ -8678,7 +8311,7 @@
             0,
             0
         ],
-        "Name": "S\u00fcdtirol",
+        "Name": "S\u00fadtirol",
         "team_Ratings": {
             "ATT": "68",
             "MID": "65",
@@ -8726,10 +8359,6 @@
         "League": "Belgium Pro League (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111822.png",
         "stars": [
@@ -8826,10 +8455,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111086.png",
         "stars": [
             10,
@@ -8924,11 +8549,6 @@
         "League": "Korea K League 1 (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112707.png",
         "stars": [
@@ -9025,10 +8645,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1905.png",
         "stars": [
             10,
@@ -9101,7 +8717,7 @@
             "DEF": "67",
             "OVR": "66"
         },
-        "League": "Argentina Primera Divisi\ucc98n (1)",
+        "League": "Argentina Primera Divisi\u00f3n (1)",
         "Team Rating": ""
     },
     {
@@ -9123,10 +8739,6 @@
         "League": "Norway Eliteserien (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112572.png",
         "stars": [
@@ -9162,7 +8774,7 @@
             "DEF": "67",
             "OVR": "66"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -9212,7 +8824,7 @@
             0,
             0
         ],
-        "Name": "1. FC Saarbr\u00fccken",
+        "Name": "1. FC Saarbr\u00facken",
         "team_Ratings": {
             "ATT": "65",
             "MID": "66",
@@ -9222,10 +8834,6 @@
         "League": "Germany 3. Liga (3)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/115716.png",
         "stars": [
@@ -9322,10 +8930,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/492.png",
         "stars": [
             10,
@@ -9372,14 +8976,14 @@
             0,
             0
         ],
-        "Name": "CD Mirand\u00e9s",
+        "Name": "CD Mirand\u0117s",
         "team_Ratings": {
             "ATT": "64",
             "MID": "66",
             "DEF": "66",
             "OVR": "66"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -9410,7 +9014,7 @@
             0,
             0
         ],
-        "Name": "Quevilly Rouen M\u00e9tropole",
+        "Name": "Quevilly Rouen M\u0117tropole",
         "team_Ratings": {
             "ATT": "64",
             "MID": "66",
@@ -9420,10 +9024,6 @@
         "League": "France Ligue 2 (2)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/746.png",
         "stars": [
@@ -9440,7 +9040,7 @@
             "DEF": "66",
             "OVR": "66"
         },
-        "League": "Turkey S\uccb4per Lig (1)",
+        "League": "Turkey S\u00fcper Lig (1)",
         "Team Rating": ""
     },
     {
@@ -9519,11 +9119,6 @@
         "League": "Saudi Pro League (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113037.png",
         "stars": [
@@ -9620,10 +9215,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110178.png",
         "stars": [
             10,
@@ -9719,10 +9310,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1917.png",
         "stars": [
             10,
@@ -9769,7 +9356,7 @@
             0,
             0
         ],
-        "Name": "TSV 1860 M\u00fcnchen",
+        "Name": "TSV 1860 M\u00fanchen",
         "team_Ratings": {
             "ATT": "66",
             "MID": "65",
@@ -9817,10 +9404,6 @@
         "League": "Germany 3. Liga (3)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112511.png",
         "stars": [
@@ -9917,10 +9500,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111380.png",
         "stars": [
             10,
@@ -9948,7 +9527,7 @@
             0,
             0
         ],
-        "Name": "Estudiantes de M\u00e9rida",
+        "Name": "Estudiantes de M\u0117rida",
         "team_Ratings": {
             "ATT": "65",
             "MID": "65",
@@ -10015,10 +9594,6 @@
         "League": "CONMEBOL Libertadores",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/708.png",
         "stars": [
@@ -10114,11 +9689,6 @@
         "League": "Korea K League 1 (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/114582.png",
         "stars": [
@@ -10215,10 +9785,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/322.png",
         "stars": [
             10,
@@ -10227,7 +9793,7 @@
             0,
             0
         ],
-        "Name": "Grasshopper Club Z\u00fcrich",
+        "Name": "Grasshopper Club Z\u00farich",
         "team_Ratings": {
             "ATT": "64",
             "MID": "65",
@@ -10313,10 +9879,6 @@
         "League": "Germany 3. Liga (3)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113182.png",
         "stars": [
@@ -10413,10 +9975,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110645.png",
         "stars": [
             10,
@@ -10512,10 +10070,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110902.png",
         "stars": [
             10,
@@ -10531,7 +10085,7 @@
             "DEF": "65",
             "OVR": "65"
         },
-        "League": "Spain Segunda Divisi\ucc98n (2)",
+        "League": "Spain Segunda Divisi\u00f3n (2)",
         "Team Rating": ""
     },
     {
@@ -10610,10 +10164,6 @@
         "League": "Australia A-League (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111779.png",
         "stars": [
@@ -10709,11 +10259,6 @@
         "League": "Australia A-League (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/100757.png",
         "stars": [
@@ -10810,10 +10355,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1798.png",
         "stars": [
             10,
@@ -10908,10 +10449,6 @@
         "League": "Germany 3. Liga (3)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1439.png",
         "stars": [
@@ -11008,10 +10545,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/149.png",
         "stars": [
             10,
@@ -11106,10 +10639,6 @@
         "League": "Scotland Premiership (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/645.png",
         "stars": [
@@ -11206,10 +10735,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111085.png",
         "stars": [
             10,
@@ -11275,7 +10800,7 @@
             0,
             0
         ],
-        "Name": "VfB L\u00fcbeck",
+        "Name": "VfB L\u00fabeck",
         "team_Ratings": {
             "ATT": "63",
             "MID": "64",
@@ -11304,11 +10829,6 @@
         "League": "Germany 3. Liga (3)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112260.png",
         "stars": [
@@ -11405,10 +10925,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/922.png",
         "stars": [
             10,
@@ -11503,10 +11019,6 @@
         "League": "Romania Liga I (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110815.png",
         "stars": [
@@ -11603,10 +11115,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/306.png",
         "stars": [
             10,
@@ -11701,10 +11209,6 @@
         "League": "Scotland Premiership (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/531.png",
         "stars": [
@@ -11801,10 +11305,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/143.png",
         "stars": [
             10,
@@ -11899,11 +11399,6 @@
         "League": "England League One (3)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/361.png",
         "stars": [
@@ -12000,10 +11495,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1940.png",
         "stars": [
             10,
@@ -12098,10 +11589,6 @@
         "League": "Sweden Allsvenskan (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111004.png",
         "stars": [
@@ -12198,10 +11685,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1937.png",
         "stars": [
             10,
@@ -12296,10 +11779,6 @@
         "League": "Poland Ekstraklasa (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/92.png",
         "stars": [
@@ -12396,10 +11875,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1934.png",
         "stars": [
             10,
@@ -12494,11 +11969,6 @@
         "League": "England League Two (4)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/112072.png",
         "stars": [
@@ -12595,10 +12065,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1456.png",
         "stars": [
             10,
@@ -12693,10 +12159,6 @@
         "League": "Australia A-League (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113298.png",
         "stars": [
@@ -12793,10 +12255,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/1757.png",
         "stars": [
             10,
@@ -12891,10 +12349,6 @@
         "League": "Poland Ekstraklasa (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/111773.png",
         "stars": [
@@ -12991,10 +12445,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113743.png",
         "stars": [
             10,
@@ -13089,11 +12539,6 @@
         "League": "Rep. Ireland Premier Division (1)",
         "Team Rating": ""
     },
-    {},
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/110890.png",
         "stars": [
@@ -13190,10 +12635,6 @@
         "Team Rating": ""
     },
     {
-        "stars": []
-    },
-    {},
-    {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/834.png",
         "stars": [
             5,
@@ -13288,10 +12729,6 @@
         "League": "Rep. Ireland Premier Division (1)",
         "Team Rating": ""
     },
-    {
-        "stars": []
-    },
-    {},
     {
         "image": "https://fifastatic.fifaindex.com/FIFA24/teams/light/113040.png",
         "stars": [
