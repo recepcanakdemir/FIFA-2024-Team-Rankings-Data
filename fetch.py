@@ -3,6 +3,7 @@ import requests
 import json
 import re
 
+# this functions replaces unsupported characters with their real value
 def replace_unsupported_characters(input_string):
     sequences = [
         ['\ucc98', 'ó'],
@@ -96,9 +97,10 @@ for url in links:
         #print("this is an item : " + str(item))
         if item and item is not {} and item['stars']:
             data.append(item)
-# Define the file path where you want to save the JSON file
+
 file_path = "C:/Users/Recep Can/Desktop/FIFA Kura Çekme/Data/teams_data.json"
-# Write JSON data to the file
+
+# write JSON data to the file
 with open(file_path, 'w') as json_file:
     json.dump(data, json_file, indent=4)
 print("Data saved to:", file_path)
